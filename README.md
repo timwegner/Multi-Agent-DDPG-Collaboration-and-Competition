@@ -2,7 +2,7 @@
 
 Solving a collaboration and competition task of two tennis rackets using two DDPG agents with shared experience buffer.
 
-![](tennis_trained.gif)
+![](Tennis_trained.gif)
 
 ## Environment details
 The objective of Unity's [Tennis environment](https://github.com/Unity-Technologies/ml-agents/blob/master/docs/Learning-Environment-Examples.md#tennis) is to train two agents to play tennis with each other in a cooperative way. The agents are rewarded for keeping the ball in play as long as possible. The task is considered solved when the average reward of the winning agent each episode hits 0.5 over 100 consecutive episodes.
