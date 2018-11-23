@@ -52,7 +52,7 @@ Two individual neural networks with 3 fully connected layers:
 * Number of episodes to decay over from start to end: eps_decay = 250  
 
 
-## Installation Instruction
+## Installation instructions
 
 Python 3.6 is required. The program requires PyTorch, the ML-Agents toolkit, and a few more Python packages required to complete the project.
 
@@ -67,7 +67,7 @@ Run the following to create drlnd kernel in ipython so that the right unity envi
 
 ```python -m ipykernel install --user --name drlnd --display-name "drlnd"```
 
-## Getting Started
+## Getting started
 
 Place <mark>report.ipynb</mark> in the folder <mark>p3_collab-compet/</mark>.
 
@@ -78,7 +78,7 @@ Mac OSX: [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis
 Windows (32-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86.zip)  
 Windows (64-bit): [click here](https://s3-us-west-1.amazonaws.com/udacity-drlnd/P3/Tennis/Tennis_Windows_x86_64.zip)  
 
-Choose the environment suitable for your machine. Unzipping will create another Reacher_xxxx folder. For example, if the Linux Reacher environment is downloaded, ```Tennis_Linux``` will be created. 
+Choose the environment suitable for your machine. Unzipping will create another Reacher_xxxx folder. For example, if the Linux Tennis environment is downloaded, ```Tennis_Linux``` will be created. 
 
 Run ```p3_collab-compet/report.ipynb```
 
